@@ -1,1 +1,1 @@
-# JAVA_jSelenium
+# Assignment_Java_selenium
